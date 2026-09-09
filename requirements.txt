@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+email-validator
+bcrypt
+python-jose
+openpyxl
+reportlab
+httpx
+psycopg2-binary
